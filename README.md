@@ -1,1 +1,39 @@
 # AD-Tools
+
+## Tools Inculdes: 
+  - GPOddity
+  - AD Module Master
+  - Invishell
+  - Netcat
+  - PowerUPSQL
+  - AMSIBypass
+  - AmsiTrigger
+  - BytetoLineNumber
+  - Certify
+  - DefenderCheck
+  - Deploy-DeceptionMaster
+  - DFSCoerce
+  - DoTNetAMSI
+  - FindLSASSPID
+  - Find-PSRemotingLocalAdminAccess
+  - Find-WMILocalAdminAccess
+  - Get-RBCD-Threaded
+  - HFS
+  - Invoke-EDRChecker
+  - Invoke-Mimi
+  - Invoke-PowerShellTCP
+  - Invoke-PowerShellTCP-EX
+  - Invoke-SDPropagator
+  - Invoke-SessionHunter
+  - PowerUP
+  - PowerView
+  - PrivEscCheck
+  - RACE
+  - Rubeus
+  - SafetyKatz
+  - SBloggingBypass
+  - SharpGPOAbuse
+  - SharpHound Collectors
+  - WinPEASx64
+  - WSManWinRM
+  - WSPCoerce
