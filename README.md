@@ -4,9 +4,6 @@
 This repository contains a curated collection of tools commonly used for testing, auditing, and simulating Active Directory (AD) environments. These tools assist in understanding AD security postures and exploring misconfigurations, privilege escalations, and other AD-related behaviors in lab environments.
 
 ## 🧰 Tools Included
-
-# AD-Tools
-
 - **GPOddity**  
 - **AD Module Master**  
 - **Invishell**  
